@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**guszDambz/guszDambz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Gustavo Dambros! 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔁 Em transição da área fiscal para tecnologia  
+💻 Buscando minha primeira oportunidade em TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 🛠️ Tecnologias que estou estudando
+
+`Python` · `Java` · `SQL/PostgreSQL` · `JavaScript` · `HTML/CSS` ·
+
+---
+
+## 📫 Onde me encontrar
+
+- LinkedIn: [linkedin.com/in/seuperfil]((https://www.linkedin.com/in/gustavo-dambros/))
+
+
