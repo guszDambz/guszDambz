@@ -17,6 +17,6 @@
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/seuperfil]((https://www.linkedin.com/in/gustavo-dambros/))
+- LinkedIn: [Gustavo Dambros]((https://www.linkedin.com/in/gustavo-dambros/))
 
 
